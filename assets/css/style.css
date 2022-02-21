@@ -85,11 +85,11 @@ section{
 /* Hero Style End */
 
 .hero-form {
-    border: 3px solid #024e76;
-    background-color: #fce138;
+    border: 3px solid #374a4c;
+    background-color:#374a4c;
     padding: 20px;
     width: 500px;
-    color: #024e76;
+    color: #22b5fd;
     position: absolute;
     bottom: 12px;
     right: 140px;
