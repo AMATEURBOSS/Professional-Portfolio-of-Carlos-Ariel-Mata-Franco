@@ -155,7 +155,7 @@ section{
 }
 
 .primary-border {
-    border-color: #fce138;
+    border-color: #4538fc;
 }
 .secondary-border {
     border-color: #39a6b2;
@@ -233,10 +233,11 @@ section{
 
 .contact {
     text-align: center;
-    background-color: #024e76;
+    background-color:#374a4c;
 }
 .contact h2 {
-    color: #fce138;
+    color:#374a4c;
+    background-color:#22b5fd;
 }
 .contact-info iframe {
     width: 400px;
