@@ -124,12 +124,17 @@ section{
 }
 .intro {
     text-align: center;
+    background-color: #374a4c;
+}
+.intro h2 {
+    color:#374a4c;
+    background-color: #22b5fd;
 }
 
 .intro p {
     margin: 0 auto;
     line-height: 1.7;
-    color: #39a6b2;
+    color: #22b5fd;
     width: 80%;
     font-size: 20px;
 }
