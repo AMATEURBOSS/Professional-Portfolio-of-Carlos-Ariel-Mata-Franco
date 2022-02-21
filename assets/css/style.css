@@ -11,6 +11,12 @@ body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
 }
+
+/*Changes Opacity of Hyperlinks when hovered upon to make it easier for users to tell it is a hyperlink*/
+a:hover {
+    opacity: .5;
+  }
+
 /* apply styles to <header> */
 header {
     padding: 20px 35px;
@@ -46,7 +52,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    margin: 0 30px;
+    padding:10px 15px;
     font-weight: lighter;
     font-size: 22px;
 }
@@ -83,6 +89,7 @@ section{
     background-size: cover;
     background-position: center;
     position: relative;
+    align-items: flex-start;
 } 
 /* Hero Style End */
 
@@ -275,3 +282,4 @@ section{
     color: #fce138;
 }
 /* REACH OUT STYLES END */
+
